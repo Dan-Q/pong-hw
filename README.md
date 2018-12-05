@@ -18,6 +18,8 @@ slides in (or substitute your own slide mechanism).
 One of my goals was to start a conversation about the aims of digital preservation and how this game -
 while superficially faithful to the original - is *not* an example of digital preservation.
 
+Blog post about the game: https://danq.me/2018/11/30/pong/
+
 ## Usage
 
 Tested in Firefox, Chrome, and Safari (gamepad support doesn't seem to work on Safari). Designed to be run
